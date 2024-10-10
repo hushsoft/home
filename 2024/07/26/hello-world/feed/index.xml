@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2024/07/26/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2024/07/26/hello-world/</link>
+	<atom:link href="https://hushsoft.github.io/home/2024/07/26/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hushsoft.github.io/home/2024/07/26/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 26 Jul 2024 11:17:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/2024/07/26/hello-world/#comment-1</link>
+		<link>https://hushsoft.github.io/home/2024/07/26/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 26 Jul 2024 11:17:37 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://hushsoft.github.io/home/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
